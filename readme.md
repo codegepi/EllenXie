@@ -1,3 +1,3 @@
-# test 01 #
-## test 02 ##
-### test 03 ###
+# Read Me #
+## Belajar Programming Juni-July ##
+### GEPI Ciputra ###
